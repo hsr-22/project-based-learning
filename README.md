@@ -1,10 +1,11 @@
 ### Status of Projects
 Projects done till now from the list below - 
 1. [C/C++](#cc): [Build an Interpreter](http://www.craftinginterpreters.com/)
-2. [HTML/CSS](#html-and-css): [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
-3. [C/C++](#cc): [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
+2. [Go](#go) : [Building Blockchain in Go]()
+3. [HTML/CSS](#html-and-css): [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
+4. [C/C++](#cc): [Memory Allocators 101 - Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
 
-This list will keep growing over time. (*Last updated on: 19<sup>th</sup> December 2023*)
+This list will keep growing over time. (*Last updated on: 31<sup>st</sup> December 2023*)
 
 ---
 # Project Based Learning
